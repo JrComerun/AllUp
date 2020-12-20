@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Code Academy\\Desktop\\allup\\Allup\\Allup.csproj": {}
+    "C:\\Users\\Code Academy\\Desktop\\DuwuncesizFrontEndCi\\allup\\Allup\\Allup.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Code Academy\\Desktop\\allup\\Allup\\Allup.csproj": {
+    "C:\\Users\\Code Academy\\Desktop\\DuwuncesizFrontEndCi\\allup\\Allup\\Allup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Code Academy\\Desktop\\allup\\Allup\\Allup.csproj",
+        "projectUniqueName": "C:\\Users\\Code Academy\\Desktop\\DuwuncesizFrontEndCi\\allup\\Allup\\Allup.csproj",
         "projectName": "Allup",
-        "projectPath": "C:\\Users\\Code Academy\\Desktop\\allup\\Allup\\Allup.csproj",
+        "projectPath": "C:\\Users\\Code Academy\\Desktop\\DuwuncesizFrontEndCi\\allup\\Allup\\Allup.csproj",
         "packagesPath": "C:\\Users\\Code Academy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Code Academy\\Desktop\\allup\\Allup\\obj\\",
+        "outputPath": "C:\\Users\\Code Academy\\Desktop\\DuwuncesizFrontEndCi\\allup\\Allup\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -22,13 +22,16 @@ namespace Allup.Controllers
 
         public IActionResult Index()
         {
+            
+            
             HomeVM homeVM = new HomeVM
             {
                 Categories = _context.Categories.Where(c=>c.IsMain==true&&c.IsDeleted==false).Include(p=>p.ProductCategories).ThenInclude(p=>p.Product).ThenInclude(p=>p.ProductImages).ToList(),
                 Products=_context.Products.Where(p=>p.IsDeleted==false).Include(p=>p.ProductImages).ToList(),
                 ProductCategories = _context.ProductCategories.Include(p => p.Product).ThenInclude(p => p.ProductImages).ToList(),
-
+                
             };
+            
             return View(homeVM);
         }
         public IActionResult Privacy()

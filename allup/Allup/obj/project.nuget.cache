@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tg75qK/r7vyJ9pOG3Oi3y5NCRD5Tz1WuXrXu+pgKhRa79/U5EixYFr/BqwepvqjmmsaQkQceARC5Xt3YW1CXLQ==",
+  "dgSpecHash": "tj/AZsTLRbHM1M/HFLfTYgOhP2SEcH2lx6dzLcpfI+YLtm3o8I7FCT2iX3m1A6InGScNuBsVmIl2B4LL1SeZmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Code Academy\\Desktop\\allup\\Allup\\Allup.csproj",
+  "projectFilePath": "C:\\Users\\Code Academy\\Desktop\\DuwuncesizFrontEndCi\\allup\\Allup\\Allup.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Code Academy\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Code Academy\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
